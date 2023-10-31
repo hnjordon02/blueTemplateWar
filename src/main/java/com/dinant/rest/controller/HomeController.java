@@ -11,4 +11,9 @@ public class HomeController {
 		model.addAttribute("titulo", "Bienvenido Pagina de Inicio");
 		return "inicio";
 	}
+	
+	@GetMapping("/login")
+	public String goLogin() {
+		return "login";
+	}
 }

@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.dinant</groupId>
 	<artifactId>blueModel</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+<!--	<version>0.0.1-SNAPSHOT</version>-->
 	<packaging>war</packaging>
 	<name>blueModel</name>
 	<description>Plantilla UI </description>
